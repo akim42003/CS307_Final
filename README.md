@@ -12,7 +12,7 @@ This project uses an MLP to classify NBA players into performance tiers based on
 
 To execute the program, run the following line
 
-python inference.py *path to data*
+python inference.py [*path to data*]
 
 ## Dependencies
 
