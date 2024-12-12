@@ -1,6 +1,6 @@
 # NBA Player Classification
 
-This project uses an MLP to classify NBA players into performance tiers based on peak NBA WS percentiles.
+This project uses an MLP to classify NBA players into performance tiers based on peak NBA WS percentiles. We separated players into three classes (star, role player, bench player) and used traditional and advanced basketball statistics as the primary learnable features. 
 
 ## Contents
 - data_src contains training and testing csv files and code relating to data processing and preliminary data analysis.
