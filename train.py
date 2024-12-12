@@ -41,7 +41,7 @@ y = player_data_df[target_col]
 # Drop columns not needed
 X = X.drop(columns=['Player','TS%', 'eFG%', 'Season', 'Draft Year', 'Team', 'Draft Team', 'Draft College'])
 
-# Fill NAs (for example in '3P%')
+# Fill NAs
 X['3P%'] = X['3P%'].fillna(0)
 
 # One-hot encode categorical features
