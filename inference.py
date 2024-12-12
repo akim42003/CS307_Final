@@ -131,6 +131,6 @@ if __name__ == "__main__":
     # Define a format string for predictions
     row_format = f"{{:<{max_name_length}}}  {{}}"
 
-    # Print predictions with aligned output
+    # Print predictions
     for i, c in enumerate(pred_classes):
         print(row_format.format(player_names[i], c))
