@@ -29,7 +29,7 @@ The following files must be in the directory:
 ## WandB
 
 The weights and biases outcome report for the model weights in this repository can be found at this link:
-- https://wandb.ai/amkim-hamilton-college/nba_player_classification/runs/ze2ndpaj?nw=nwuseramkim
+- [https://wandb.ai/amkim-hamilton-college/nba_player_classification/runs/ze2ndpaj?nw=nwuseramkim](https://wandb.ai/amkim-hamilton-college/nba_player_classification/runs/ze2ndpaj?nw=nwusercwhynott)
 
 ## Authors
 Alex Kim
