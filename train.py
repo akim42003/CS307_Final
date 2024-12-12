@@ -22,7 +22,7 @@ import os
 
 wandb.init(project="nba_player_classification", config={
     "learning_rate": 0.001,
-    "epochs": 100,
+    "epochs": 60,
     "batch_size": 64
 })
 
